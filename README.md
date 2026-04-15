@@ -207,4 +207,4 @@ pytest tests/ -v
 
 ## 📝 License
 
-MIT License — Built by **Ankush Choudhary**
+MIT License — Built by **Kritika Agarwal**
